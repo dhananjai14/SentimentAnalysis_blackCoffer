@@ -1,0 +1,1228 @@
+2022-09-09 00:53:23,910 INFO root 		Inside the class data extraction
+2022-09-09 00:53:23,910 INFO root 		file path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\20211030 Test Assignment\Input.xlsx
+2022-09-09 00:53:23,910 INFO root 		target path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 00:53:23,910 INFO root 		Inside the data_load method
+2022-09-09 00:53:23,910 INFO root 		Path of web_driveris C:\Users\preet\Desktop\DS\Project\Youtube\chromedriver.exe
+2022-09-09 00:53:26,511 INFO root 		excel file loaded
+2022-09-09 00:53:27,012 INFO root 		Directory created C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 00:53:37,022 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:53:37,585 INFO root 		Data Loaded in file 37.txt
+2022-09-09 00:53:39,329 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:53:39,610 INFO root 		Data Loaded in file 38.txt
+2022-09-09 00:53:41,749 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:53:42,140 INFO root 		Data Loaded in file 39.txt
+2022-09-09 00:53:43,928 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:53:44,538 INFO root 		Data Loaded in file 40.txt
+2022-09-09 00:53:47,036 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:53:47,489 INFO root 		Data Loaded in file 41.txt
+2022-09-09 00:53:50,229 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:53:50,464 INFO root 		Data Loaded in file 42.txt
+2022-09-09 00:53:52,213 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:53:52,322 INFO root 		Data Loaded in file 43.txt
+2022-09-09 00:53:54,353 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:53:54,353 INFO root 		Data Loaded in file 44.txt
+2022-09-09 00:53:56,008 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:53:56,117 INFO root 		Data Loaded in file 45.txt
+2022-09-09 00:53:57,746 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:53:58,123 INFO root 		Data Loaded in file 46.txt
+2022-09-09 00:54:00,100 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:00,414 INFO root 		Data Loaded in file 47.txt
+2022-09-09 00:54:02,024 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:02,463 INFO root 		Data Loaded in file 48.txt
+2022-09-09 00:54:04,181 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:04,455 INFO root 		Data Loaded in file 49.txt
+2022-09-09 00:54:06,508 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:06,988 INFO root 		Data Loaded in file 50.txt
+2022-09-09 00:54:08,602 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:09,208 INFO root 		Data Loaded in file 51.txt
+2022-09-09 00:54:10,884 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:10,978 INFO root 		Data Loaded in file 52.txt
+2022-09-09 00:54:12,895 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:12,942 INFO root 		Data Loaded in file 53.txt
+2022-09-09 00:54:14,576 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:15,041 INFO root 		Data Loaded in file 54.txt
+2022-09-09 00:54:17,110 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:17,454 INFO root 		Data Loaded in file 55.txt
+2022-09-09 00:54:19,251 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:19,375 INFO root 		Data Loaded in file 56.txt
+2022-09-09 00:54:20,422 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:20,437 INFO root 		Data Loaded in file 57.txt
+2022-09-09 00:54:22,861 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:23,253 INFO root 		Data Loaded in file 58.txt
+2022-09-09 00:54:25,026 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:25,104 INFO root 		Data Loaded in file 59.txt
+2022-09-09 00:54:28,303 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:28,648 INFO root 		Data Loaded in file 60.txt
+2022-09-09 00:54:30,916 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:31,198 INFO root 		Data Loaded in file 61.txt
+2022-09-09 00:54:32,989 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:33,058 INFO root 		Data Loaded in file 62.txt
+2022-09-09 00:54:34,797 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:35,078 INFO root 		Data Loaded in file 63.txt
+2022-09-09 00:54:36,699 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:36,885 INFO root 		Data Loaded in file 64.txt
+2022-09-09 00:54:38,779 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:38,858 INFO root 		Data Loaded in file 65.txt
+2022-09-09 00:54:41,044 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:41,106 INFO root 		Data Loaded in file 66.txt
+2022-09-09 00:54:42,654 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:42,686 INFO root 		Data Loaded in file 67.txt
+2022-09-09 00:54:44,270 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:44,334 INFO root 		Data Loaded in file 68.txt
+2022-09-09 00:54:46,107 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:46,295 INFO root 		Data Loaded in file 69.txt
+2022-09-09 00:54:47,733 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:47,753 INFO root 		Data Loaded in file 70.txt
+2022-09-09 00:54:49,457 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:49,545 INFO root 		Data Loaded in file 71.txt
+2022-09-09 00:54:50,992 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:51,471 INFO root 		Data Loaded in file 72.txt
+2022-09-09 00:54:53,561 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:53,890 INFO root 		Data Loaded in file 73.txt
+2022-09-09 00:54:55,341 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:55,565 INFO root 		Data Loaded in file 74.txt
+2022-09-09 00:54:57,676 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:54:57,879 INFO root 		Data Loaded in file 75.txt
+2022-09-09 00:55:00,086 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:00,191 INFO root 		Data Loaded in file 76.txt
+2022-09-09 00:55:01,682 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:01,733 INFO root 		Data Loaded in file 77.txt
+2022-09-09 00:55:03,222 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:03,686 INFO root 		Data Loaded in file 78.txt
+2022-09-09 00:55:05,472 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:05,786 INFO root 		Data Loaded in file 79.txt
+2022-09-09 00:55:07,248 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:07,596 INFO root 		Data Loaded in file 80.txt
+2022-09-09 00:55:09,398 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:09,650 INFO root 		Data Loaded in file 81.txt
+2022-09-09 00:55:11,908 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:12,409 INFO root 		Data Loaded in file 82.txt
+2022-09-09 00:55:13,821 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:14,031 INFO root 		Data Loaded in file 83.txt
+2022-09-09 00:55:16,693 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:16,912 INFO root 		Data Loaded in file 84.txt
+2022-09-09 00:55:18,343 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:18,374 INFO root 		Data Loaded in file 85.txt
+2022-09-09 00:55:20,474 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:20,595 INFO root 		Data Loaded in file 86.txt
+2022-09-09 00:55:22,518 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:22,926 INFO root 		Data Loaded in file 87.txt
+2022-09-09 00:55:25,604 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:28,900 INFO root 		Data Loaded in file 88.txt
+2022-09-09 00:55:31,613 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:32,036 INFO root 		Data Loaded in file 89.txt
+2022-09-09 00:55:33,772 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:34,039 INFO root 		Data Loaded in file 90.txt
+2022-09-09 00:55:35,851 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:35,952 INFO root 		Data Loaded in file 91.txt
+2022-09-09 00:55:38,216 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:38,388 INFO root 		Data Loaded in file 92.txt
+2022-09-09 00:55:39,755 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:40,012 INFO root 		Data Loaded in file 93.txt
+2022-09-09 00:55:41,776 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:42,355 INFO root 		Data Loaded in file 94.txt
+2022-09-09 00:55:44,221 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:44,486 INFO root 		Data Loaded in file 95.txt
+2022-09-09 00:55:46,947 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:47,386 INFO root 		Data Loaded in file 96.txt
+2022-09-09 00:55:50,424 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:50,710 INFO root 		Data Loaded in file 97.txt
+2022-09-09 00:55:52,191 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:52,333 INFO root 		Data Loaded in file 98.txt
+2022-09-09 00:55:54,374 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:54,499 INFO root 		Data Loaded in file 99.txt
+2022-09-09 00:55:57,439 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:55:58,882 INFO root 		Data Loaded in file 100.txt
+2022-09-09 00:56:00,346 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:00,457 INFO root 		Data Loaded in file 101.txt
+2022-09-09 00:56:02,574 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:02,806 INFO root 		Data Loaded in file 102.txt
+2022-09-09 00:56:04,560 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:04,888 INFO root 		Data Loaded in file 103.txt
+2022-09-09 00:56:06,280 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:06,374 INFO root 		Data Loaded in file 104.txt
+2022-09-09 00:56:08,344 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:08,642 INFO root 		Data Loaded in file 105.txt
+2022-09-09 00:56:10,092 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:10,162 INFO root 		Data Loaded in file 106.txt
+2022-09-09 00:56:12,889 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:13,249 INFO root 		Data Loaded in file 107.txt
+2022-09-09 00:56:14,573 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:14,855 INFO root 		Data Loaded in file 108.txt
+2022-09-09 00:56:15,957 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:16,223 INFO root 		Data Loaded in file 109.txt
+2022-09-09 00:56:17,817 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:18,461 INFO root 		Data Loaded in file 110.txt
+2022-09-09 00:56:20,355 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:20,716 INFO root 		Data Loaded in file 111.txt
+2022-09-09 00:56:22,231 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:22,387 INFO root 		Data Loaded in file 112.txt
+2022-09-09 00:56:24,520 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:24,626 INFO root 		Data Loaded in file 113.txt
+2022-09-09 00:56:26,581 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:26,753 INFO root 		Data Loaded in file 114.txt
+2022-09-09 00:56:28,696 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:29,137 INFO root 		Data Loaded in file 115.txt
+2022-09-09 00:56:30,583 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:30,738 INFO root 		Data Loaded in file 116.txt
+2022-09-09 00:56:32,122 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:32,682 INFO root 		Data Loaded in file 117.txt
+2022-09-09 00:56:33,727 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:34,055 INFO root 		Data Loaded in file 118.txt
+2022-09-09 00:56:35,436 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:35,592 INFO root 		Data Loaded in file 119.txt
+2022-09-09 00:56:37,074 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:37,284 INFO root 		Data Loaded in file 120.txt
+2022-09-09 00:56:45,987 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:46,191 INFO root 		Data Loaded in file 121.txt
+2022-09-09 00:56:48,297 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:48,783 INFO root 		Data Loaded in file 122.txt
+2022-09-09 00:56:50,141 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:50,894 INFO root 		Data Loaded in file 123.txt
+2022-09-09 00:56:54,025 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:54,432 INFO root 		Data Loaded in file 124.txt
+2022-09-09 00:56:55,599 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:55,772 INFO root 		Data Loaded in file 125.txt
+2022-09-09 00:56:57,103 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:57,180 INFO root 		Data Loaded in file 126.txt
+2022-09-09 00:56:58,568 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:56:58,715 INFO root 		Data Loaded in file 127.txt
+2022-09-09 00:57:00,148 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:00,259 INFO root 		Data Loaded in file 128.txt
+2022-09-09 00:57:03,388 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:03,544 INFO root 		Data Loaded in file 129.txt
+2022-09-09 00:57:04,935 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:06,235 INFO root 		Data Loaded in file 130.txt
+2022-09-09 00:57:07,910 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:08,143 INFO root 		Data Loaded in file 131.txt
+2022-09-09 00:57:09,702 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:09,881 INFO root 		Data Loaded in file 132.txt
+2022-09-09 00:57:11,214 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:11,339 INFO root 		Data Loaded in file 133.txt
+2022-09-09 00:57:12,749 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:12,819 INFO root 		Data Loaded in file 134.txt
+2022-09-09 00:57:14,175 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:14,363 INFO root 		Data Loaded in file 135.txt
+2022-09-09 00:57:15,841 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:16,233 INFO root 		Data Loaded in file 136.txt
+2022-09-09 00:57:18,475 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:18,632 INFO root 		Data Loaded in file 137.txt
+2022-09-09 00:57:19,981 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:20,138 INFO root 		Data Loaded in file 138.txt
+2022-09-09 00:57:22,195 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:22,252 INFO root 		Data Loaded in file 139.txt
+2022-09-09 00:57:23,434 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:23,546 INFO root 		Data Loaded in file 140.txt
+2022-09-09 00:57:25,736 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:25,912 INFO root 		Data Loaded in file 141.txt
+2022-09-09 00:57:27,356 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:27,806 INFO root 		Data Loaded in file 142.txt
+2022-09-09 00:57:28,853 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:29,012 INFO root 		Data Loaded in file 143.txt
+2022-09-09 00:57:30,168 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:30,200 INFO root 		Data Loaded in file 144.txt
+2022-09-09 00:57:32,627 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:32,767 INFO root 		Data Loaded in file 145.txt
+2022-09-09 00:57:34,451 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:34,659 INFO root 		Data Loaded in file 146.txt
+2022-09-09 00:57:39,405 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:39,618 INFO root 		Data Loaded in file 147.txt
+2022-09-09 00:57:41,062 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:41,345 INFO root 		Data Loaded in file 148.txt
+2022-09-09 00:57:44,402 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:44,573 INFO root 		Data Loaded in file 149.txt
+2022-09-09 00:57:46,162 INFO root 		Url fetched and loaded in driver
+2022-09-09 00:57:46,277 INFO root 		Data Loaded in file 150.txt
+2022-09-09 20:16:41,511 INFO root 		Inside the class data extraction
+2022-09-09 20:16:41,511 INFO root 		file path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\20211030 Test Assignment\Input.xlsx
+2022-09-09 20:16:41,511 INFO root 		target path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 20:16:41,511 INFO root 		Inside the data_load method
+2022-09-09 20:16:41,511 INFO root 		Path of web_driveris C:\Users\preet\Desktop\DS\Project\Youtube\chromedriver.exe
+2022-09-09 20:16:45,705 INFO root 		excel file loaded
+2022-09-09 20:16:46,289 INFO root 		Directory created C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 20:16:50,504 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:16:50,513 ERROR root 		Traceback (most recent call last):
+  File "C:\Users\preet\Desktop\DS\Project\Blackcoffer\DataExtraction.py", line 54, in data_load
+    all_text = driver.find_elements(By.XPATH, '//p')
+  File "C:\Users\preet\anaconda3\envs\Blackcoffer\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 1007, in find_elements
+    'value': value})['value'] or []
+  File "C:\Users\preet\anaconda3\envs\Blackcoffer\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\preet\anaconda3\envs\Blackcoffer\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=105.0.5195.102)
+
+
+2022-09-09 20:17:56,365 INFO root 		Inside the class data extraction
+2022-09-09 20:17:56,365 INFO root 		file path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\20211030 Test Assignment\Input.xlsx
+2022-09-09 20:17:56,365 INFO root 		target path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 20:17:56,365 INFO root 		Inside the data_load method
+2022-09-09 20:17:56,365 INFO root 		Path of web_driveris C:\Users\preet\Desktop\DS\Project\Youtube\chromedriver.exe
+2022-09-09 20:17:58,447 INFO root 		excel file loaded
+2022-09-09 20:17:58,447 INFO root 		Directory created C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 20:18:08,932 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:09,584 INFO root 		Data Loaded in file 37.txt
+2022-09-09 20:18:11,194 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:11,415 INFO root 		Data Loaded in file 38.txt
+2022-09-09 20:18:14,838 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:15,227 INFO root 		Data Loaded in file 39.txt
+2022-09-09 20:18:16,987 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:17,616 INFO root 		Data Loaded in file 40.txt
+2022-09-09 20:18:20,221 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:20,660 INFO root 		Data Loaded in file 41.txt
+2022-09-09 20:18:22,990 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:23,211 INFO root 		Data Loaded in file 42.txt
+2022-09-09 20:18:24,758 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:24,868 INFO root 		Data Loaded in file 43.txt
+2022-09-09 20:18:26,713 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:26,713 INFO root 		Data Loaded in file 44.txt
+2022-09-09 20:18:28,639 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:28,750 INFO root 		Data Loaded in file 45.txt
+2022-09-09 20:18:30,349 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:30,801 INFO root 		Data Loaded in file 46.txt
+2022-09-09 20:18:33,805 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:34,111 INFO root 		Data Loaded in file 47.txt
+2022-09-09 20:18:35,733 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:36,281 INFO root 		Data Loaded in file 48.txt
+2022-09-09 20:18:38,252 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:38,503 INFO root 		Data Loaded in file 49.txt
+2022-09-09 20:18:40,521 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:41,040 INFO root 		Data Loaded in file 50.txt
+2022-09-09 20:18:42,713 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:43,420 INFO root 		Data Loaded in file 51.txt
+2022-09-09 20:18:45,089 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:45,204 INFO root 		Data Loaded in file 52.txt
+2022-09-09 20:18:47,022 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:47,084 INFO root 		Data Loaded in file 53.txt
+2022-09-09 20:18:48,756 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:49,354 INFO root 		Data Loaded in file 54.txt
+2022-09-09 20:18:50,993 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:51,364 INFO root 		Data Loaded in file 55.txt
+2022-09-09 20:18:52,702 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:52,831 INFO root 		Data Loaded in file 56.txt
+2022-09-09 20:18:53,924 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:53,955 INFO root 		Data Loaded in file 57.txt
+2022-09-09 20:18:56,596 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:57,192 INFO root 		Data Loaded in file 58.txt
+2022-09-09 20:18:58,951 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:18:59,055 INFO root 		Data Loaded in file 59.txt
+2022-09-09 20:19:01,163 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:01,563 INFO root 		Data Loaded in file 60.txt
+2022-09-09 20:19:03,678 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:03,991 INFO root 		Data Loaded in file 61.txt
+2022-09-09 20:19:05,667 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:05,758 INFO root 		Data Loaded in file 62.txt
+2022-09-09 20:19:07,363 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:07,681 INFO root 		Data Loaded in file 63.txt
+2022-09-09 20:19:09,064 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:09,268 INFO root 		Data Loaded in file 64.txt
+2022-09-09 20:19:11,819 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:11,885 INFO root 		Data Loaded in file 65.txt
+2022-09-09 20:19:13,567 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:13,615 INFO root 		Data Loaded in file 66.txt
+2022-09-09 20:19:14,860 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:14,876 INFO root 		Data Loaded in file 67.txt
+2022-09-09 20:19:16,574 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:16,637 INFO root 		Data Loaded in file 68.txt
+2022-09-09 20:19:18,327 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:18,528 INFO root 		Data Loaded in file 69.txt
+2022-09-09 20:19:19,800 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:19,815 INFO root 		Data Loaded in file 70.txt
+2022-09-09 20:19:21,484 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:21,594 INFO root 		Data Loaded in file 71.txt
+2022-09-09 20:19:23,354 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:23,903 INFO root 		Data Loaded in file 72.txt
+2022-09-09 20:19:25,244 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:25,624 INFO root 		Data Loaded in file 73.txt
+2022-09-09 20:19:27,290 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:27,518 INFO root 		Data Loaded in file 74.txt
+2022-09-09 20:19:29,212 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:29,399 INFO root 		Data Loaded in file 75.txt
+2022-09-09 20:19:31,296 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:31,421 INFO root 		Data Loaded in file 76.txt
+2022-09-09 20:19:32,653 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:32,699 INFO root 		Data Loaded in file 77.txt
+2022-09-09 20:19:34,361 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:35,332 INFO root 		Data Loaded in file 78.txt
+2022-09-09 20:19:36,756 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:37,053 INFO root 		Data Loaded in file 79.txt
+2022-09-09 20:19:38,431 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:39,042 INFO root 		Data Loaded in file 80.txt
+2022-09-09 20:19:41,171 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:41,501 INFO root 		Data Loaded in file 81.txt
+2022-09-09 20:19:43,508 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:43,962 INFO root 		Data Loaded in file 82.txt
+2022-09-09 20:19:45,626 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:45,834 INFO root 		Data Loaded in file 83.txt
+2022-09-09 20:19:47,158 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:47,361 INFO root 		Data Loaded in file 84.txt
+2022-09-09 20:19:48,702 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:48,733 INFO root 		Data Loaded in file 85.txt
+2022-09-09 20:19:50,097 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:50,208 INFO root 		Data Loaded in file 86.txt
+2022-09-09 20:19:51,903 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:52,419 INFO root 		Data Loaded in file 87.txt
+2022-09-09 20:19:55,355 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:19:59,333 INFO root 		Data Loaded in file 88.txt
+2022-09-09 20:20:00,749 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:01,141 INFO root 		Data Loaded in file 89.txt
+2022-09-09 20:20:02,515 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:02,718 INFO root 		Data Loaded in file 90.txt
+2022-09-09 20:20:03,954 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:04,079 INFO root 		Data Loaded in file 91.txt
+2022-09-09 20:20:05,607 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:05,794 INFO root 		Data Loaded in file 92.txt
+2022-09-09 20:20:07,100 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:07,366 INFO root 		Data Loaded in file 93.txt
+2022-09-09 20:20:08,973 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:09,663 INFO root 		Data Loaded in file 94.txt
+2022-09-09 20:20:10,956 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:11,270 INFO root 		Data Loaded in file 95.txt
+2022-09-09 20:20:12,873 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:13,358 INFO root 		Data Loaded in file 96.txt
+2022-09-09 20:20:14,999 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:15,298 INFO root 		Data Loaded in file 97.txt
+2022-09-09 20:20:16,658 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:16,792 INFO root 		Data Loaded in file 98.txt
+2022-09-09 20:20:18,204 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:18,324 INFO root 		Data Loaded in file 99.txt
+2022-09-09 20:20:20,152 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:21,506 INFO root 		Data Loaded in file 100.txt
+2022-09-09 20:20:22,516 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:22,641 INFO root 		Data Loaded in file 101.txt
+2022-09-09 20:20:23,725 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:23,999 INFO root 		Data Loaded in file 102.txt
+2022-09-09 20:20:25,662 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:26,118 INFO root 		Data Loaded in file 103.txt
+2022-09-09 20:20:27,288 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:27,390 INFO root 		Data Loaded in file 104.txt
+2022-09-09 20:20:28,715 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:28,934 INFO root 		Data Loaded in file 105.txt
+2022-09-09 20:20:30,357 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:30,482 INFO root 		Data Loaded in file 106.txt
+2022-09-09 20:20:31,435 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:31,694 INFO root 		Data Loaded in file 107.txt
+2022-09-09 20:20:33,027 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:33,418 INFO root 		Data Loaded in file 108.txt
+2022-09-09 20:20:34,708 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:35,017 INFO root 		Data Loaded in file 109.txt
+2022-09-09 20:20:36,229 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:36,887 INFO root 		Data Loaded in file 110.txt
+2022-09-09 20:20:38,445 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:38,744 INFO root 		Data Loaded in file 111.txt
+2022-09-09 20:20:40,070 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:40,275 INFO root 		Data Loaded in file 112.txt
+2022-09-09 20:20:42,185 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:42,295 INFO root 		Data Loaded in file 113.txt
+2022-09-09 20:20:45,293 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:45,433 INFO root 		Data Loaded in file 114.txt
+2022-09-09 20:20:47,101 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:47,618 INFO root 		Data Loaded in file 115.txt
+2022-09-09 20:20:49,033 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:49,127 INFO root 		Data Loaded in file 116.txt
+2022-09-09 20:20:50,736 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:51,303 INFO root 		Data Loaded in file 117.txt
+2022-09-09 20:20:52,678 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:52,927 INFO root 		Data Loaded in file 118.txt
+2022-09-09 20:20:54,316 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:54,441 INFO root 		Data Loaded in file 119.txt
+2022-09-09 20:20:55,366 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:55,554 INFO root 		Data Loaded in file 120.txt
+2022-09-09 20:20:57,507 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:57,758 INFO root 		Data Loaded in file 121.txt
+2022-09-09 20:20:59,140 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:20:59,705 INFO root 		Data Loaded in file 122.txt
+2022-09-09 20:21:01,397 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:02,447 INFO root 		Data Loaded in file 123.txt
+2022-09-09 20:21:05,537 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:05,977 INFO root 		Data Loaded in file 124.txt
+2022-09-09 20:21:07,035 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:07,207 INFO root 		Data Loaded in file 125.txt
+2022-09-09 20:21:08,540 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:08,641 INFO root 		Data Loaded in file 126.txt
+2022-09-09 20:21:15,915 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:16,072 INFO root 		Data Loaded in file 127.txt
+2022-09-09 20:21:22,131 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:22,247 INFO root 		Data Loaded in file 128.txt
+2022-09-09 20:21:24,183 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:24,323 INFO root 		Data Loaded in file 129.txt
+2022-09-09 20:21:26,141 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:27,395 INFO root 		Data Loaded in file 130.txt
+2022-09-09 20:21:28,601 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:28,808 INFO root 		Data Loaded in file 131.txt
+2022-09-09 20:21:30,694 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:30,852 INFO root 		Data Loaded in file 132.txt
+2022-09-09 20:21:32,390 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:32,515 INFO root 		Data Loaded in file 133.txt
+2022-09-09 20:21:33,472 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:33,504 INFO root 		Data Loaded in file 134.txt
+2022-09-09 20:21:34,736 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:34,816 INFO root 		Data Loaded in file 135.txt
+2022-09-09 20:21:36,353 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:36,540 INFO root 		Data Loaded in file 136.txt
+2022-09-09 20:21:37,764 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:37,839 INFO root 		Data Loaded in file 137.txt
+2022-09-09 20:21:39,103 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:39,262 INFO root 		Data Loaded in file 138.txt
+2022-09-09 20:21:40,462 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:40,509 INFO root 		Data Loaded in file 139.txt
+2022-09-09 20:21:41,870 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:42,031 INFO root 		Data Loaded in file 140.txt
+2022-09-09 20:21:44,324 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:44,604 INFO root 		Data Loaded in file 141.txt
+2022-09-09 20:21:45,650 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:46,627 INFO root 		Data Loaded in file 142.txt
+2022-09-09 20:21:48,024 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:48,335 INFO root 		Data Loaded in file 143.txt
+2022-09-09 20:21:49,745 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:49,765 INFO root 		Data Loaded in file 144.txt
+2022-09-09 20:21:51,352 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:52,708 INFO root 		Data Loaded in file 145.txt
+2022-09-09 20:21:55,862 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:56,128 INFO root 		Data Loaded in file 146.txt
+2022-09-09 20:21:58,789 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:21:58,981 INFO root 		Data Loaded in file 147.txt
+2022-09-09 20:22:00,399 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:22:00,803 INFO root 		Data Loaded in file 148.txt
+2022-09-09 20:22:02,782 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:22:03,123 INFO root 		Data Loaded in file 149.txt
+2022-09-09 20:22:04,517 INFO root 		Url fetched and loaded in driver
+2022-09-09 20:22:04,733 INFO root 		Data Loaded in file 150.txt
+2022-09-09 20:22:05,125 INFO root 		Inside the class "sentiment"
+2022-09-09 22:09:26,472 INFO root 		Inside the class data extraction
+2022-09-09 22:09:26,472 INFO root 		file path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\20211030 Test Assignment\Input.xlsx
+2022-09-09 22:09:26,472 INFO root 		target path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 22:09:26,472 INFO root 		Inside the data_load method
+2022-09-09 22:09:26,472 INFO root 		Path of web_driveris C:\Users\preet\Desktop\DS\Project\Youtube\chromedriver.exe
+2022-09-09 22:09:29,251 INFO root 		excel file loaded
+2022-09-09 22:09:29,737 INFO root 		Directory created C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 22:09:40,254 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:09:40,757 INFO root 		Data Loaded in file 37.txt
+2022-09-09 22:09:42,817 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:09:43,042 INFO root 		Data Loaded in file 38.txt
+2022-09-09 22:09:45,922 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:09:46,298 INFO root 		Data Loaded in file 39.txt
+2022-09-09 22:09:49,523 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:09:49,961 INFO root 		Data Loaded in file 40.txt
+2022-09-09 22:09:53,102 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:09:53,588 INFO root 		Data Loaded in file 41.txt
+2022-09-09 22:09:57,371 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:09:57,699 INFO root 		Data Loaded in file 42.txt
+2022-09-09 22:10:00,139 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:00,249 INFO root 		Data Loaded in file 43.txt
+2022-09-09 22:10:02,207 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:02,207 INFO root 		Data Loaded in file 44.txt
+2022-09-09 22:10:04,878 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:05,034 INFO root 		Data Loaded in file 45.txt
+2022-09-09 22:10:07,105 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:07,512 INFO root 		Data Loaded in file 46.txt
+2022-09-09 22:10:10,007 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:10,322 INFO root 		Data Loaded in file 47.txt
+2022-09-09 22:10:13,157 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:13,609 INFO root 		Data Loaded in file 48.txt
+2022-09-09 22:10:16,333 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:16,628 INFO root 		Data Loaded in file 49.txt
+2022-09-09 22:10:19,308 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:20,497 INFO root 		Data Loaded in file 50.txt
+2022-09-09 22:10:23,904 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:24,825 INFO root 		Data Loaded in file 51.txt
+2022-09-09 22:10:27,024 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:27,259 INFO root 		Data Loaded in file 52.txt
+2022-09-09 22:10:29,071 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:29,190 INFO root 		Data Loaded in file 53.txt
+2022-09-09 22:10:32,021 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:32,806 INFO root 		Data Loaded in file 54.txt
+2022-09-09 22:10:37,178 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:37,684 INFO root 		Data Loaded in file 55.txt
+2022-09-09 22:10:39,889 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:40,066 INFO root 		Data Loaded in file 56.txt
+2022-09-09 22:10:41,294 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:41,304 INFO root 		Data Loaded in file 57.txt
+2022-09-09 22:10:46,051 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:46,489 INFO root 		Data Loaded in file 58.txt
+2022-09-09 22:10:47,961 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:48,091 INFO root 		Data Loaded in file 59.txt
+2022-09-09 22:10:51,662 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:52,168 INFO root 		Data Loaded in file 60.txt
+2022-09-09 22:10:54,054 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:54,415 INFO root 		Data Loaded in file 61.txt
+2022-09-09 22:10:56,415 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:56,508 INFO root 		Data Loaded in file 62.txt
+2022-09-09 22:10:58,329 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:10:58,739 INFO root 		Data Loaded in file 63.txt
+2022-09-09 22:11:00,884 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:01,165 INFO root 		Data Loaded in file 64.txt
+2022-09-09 22:11:02,735 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:02,845 INFO root 		Data Loaded in file 65.txt
+2022-09-09 22:11:05,018 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:05,122 INFO root 		Data Loaded in file 66.txt
+2022-09-09 22:11:07,334 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:07,374 INFO root 		Data Loaded in file 67.txt
+2022-09-09 22:11:09,605 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:09,703 INFO root 		Data Loaded in file 68.txt
+2022-09-09 22:11:11,760 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:12,021 INFO root 		Data Loaded in file 69.txt
+2022-09-09 22:11:14,034 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:14,065 INFO root 		Data Loaded in file 70.txt
+2022-09-09 22:11:17,305 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:17,480 INFO root 		Data Loaded in file 71.txt
+2022-09-09 22:11:19,935 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:20,562 INFO root 		Data Loaded in file 72.txt
+2022-09-09 22:11:23,226 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:23,649 INFO root 		Data Loaded in file 73.txt
+2022-09-09 22:11:26,167 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:26,490 INFO root 		Data Loaded in file 74.txt
+2022-09-09 22:11:30,779 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:30,992 INFO root 		Data Loaded in file 75.txt
+2022-09-09 22:11:34,678 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:34,810 INFO root 		Data Loaded in file 76.txt
+2022-09-09 22:11:37,660 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:37,741 INFO root 		Data Loaded in file 77.txt
+2022-09-09 22:11:39,177 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:39,774 INFO root 		Data Loaded in file 78.txt
+2022-09-09 22:11:42,571 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:42,962 INFO root 		Data Loaded in file 79.txt
+2022-09-09 22:11:46,249 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:46,797 INFO root 		Data Loaded in file 80.txt
+2022-09-09 22:11:49,819 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:50,163 INFO root 		Data Loaded in file 81.txt
+2022-09-09 22:11:51,998 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:52,649 INFO root 		Data Loaded in file 82.txt
+2022-09-09 22:11:55,603 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:55,926 INFO root 		Data Loaded in file 83.txt
+2022-09-09 22:11:58,319 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:11:58,529 INFO root 		Data Loaded in file 84.txt
+2022-09-09 22:12:00,282 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:00,344 INFO root 		Data Loaded in file 85.txt
+2022-09-09 22:12:02,214 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:02,406 INFO root 		Data Loaded in file 86.txt
+2022-09-09 22:12:05,490 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:06,101 INFO root 		Data Loaded in file 87.txt
+2022-09-09 22:12:10,038 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:14,209 INFO root 		Data Loaded in file 88.txt
+2022-09-09 22:12:18,151 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:18,721 INFO root 		Data Loaded in file 89.txt
+2022-09-09 22:12:21,077 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:21,360 INFO root 		Data Loaded in file 90.txt
+2022-09-09 22:12:23,512 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:23,637 INFO root 		Data Loaded in file 91.txt
+2022-09-09 22:12:26,481 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:26,712 INFO root 		Data Loaded in file 92.txt
+2022-09-09 22:12:28,373 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:28,871 INFO root 		Data Loaded in file 93.txt
+2022-09-09 22:12:31,416 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:32,325 INFO root 		Data Loaded in file 94.txt
+2022-09-09 22:12:34,055 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:34,425 INFO root 		Data Loaded in file 95.txt
+2022-09-09 22:12:36,408 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:36,988 INFO root 		Data Loaded in file 96.txt
+2022-09-09 22:12:46,685 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:47,046 INFO root 		Data Loaded in file 97.txt
+2022-09-09 22:12:50,368 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:50,520 INFO root 		Data Loaded in file 98.txt
+2022-09-09 22:12:53,923 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:54,095 INFO root 		Data Loaded in file 99.txt
+2022-09-09 22:12:58,336 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:12:59,767 INFO root 		Data Loaded in file 100.txt
+2022-09-09 22:13:01,744 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:01,881 INFO root 		Data Loaded in file 101.txt
+2022-09-09 22:13:05,009 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:05,344 INFO root 		Data Loaded in file 102.txt
+2022-09-09 22:13:09,006 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:09,413 INFO root 		Data Loaded in file 103.txt
+2022-09-09 22:13:11,370 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:11,503 INFO root 		Data Loaded in file 104.txt
+2022-09-09 22:13:14,954 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:15,205 INFO root 		Data Loaded in file 105.txt
+2022-09-09 22:13:16,949 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:17,082 INFO root 		Data Loaded in file 106.txt
+2022-09-09 22:13:19,630 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:19,989 INFO root 		Data Loaded in file 107.txt
+2022-09-09 22:13:21,792 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:22,102 INFO root 		Data Loaded in file 108.txt
+2022-09-09 22:13:24,242 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:24,790 INFO root 		Data Loaded in file 109.txt
+2022-09-09 22:13:26,649 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:28,184 INFO root 		Data Loaded in file 110.txt
+2022-09-09 22:13:30,810 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:31,326 INFO root 		Data Loaded in file 111.txt
+2022-09-09 22:13:33,595 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:33,782 INFO root 		Data Loaded in file 112.txt
+2022-09-09 22:13:36,329 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:36,485 INFO root 		Data Loaded in file 113.txt
+2022-09-09 22:13:39,186 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:39,427 INFO root 		Data Loaded in file 114.txt
+2022-09-09 22:13:46,251 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:46,722 INFO root 		Data Loaded in file 115.txt
+2022-09-09 22:13:50,452 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:50,624 INFO root 		Data Loaded in file 116.txt
+2022-09-09 22:13:53,062 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:53,814 INFO root 		Data Loaded in file 117.txt
+2022-09-09 22:13:55,909 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:56,235 INFO root 		Data Loaded in file 118.txt
+2022-09-09 22:13:58,473 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:13:58,646 INFO root 		Data Loaded in file 119.txt
+2022-09-09 22:14:00,201 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:00,441 INFO root 		Data Loaded in file 120.txt
+2022-09-09 22:14:02,442 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:02,787 INFO root 		Data Loaded in file 121.txt
+2022-09-09 22:14:07,667 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:08,152 INFO root 		Data Loaded in file 122.txt
+2022-09-09 22:14:10,752 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:11,583 INFO root 		Data Loaded in file 123.txt
+2022-09-09 22:14:13,792 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:14,496 INFO root 		Data Loaded in file 124.txt
+2022-09-09 22:14:16,766 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:17,025 INFO root 		Data Loaded in file 125.txt
+2022-09-09 22:14:19,079 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:19,243 INFO root 		Data Loaded in file 126.txt
+2022-09-09 22:14:20,990 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:21,196 INFO root 		Data Loaded in file 127.txt
+2022-09-09 22:14:23,205 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:23,348 INFO root 		Data Loaded in file 128.txt
+2022-09-09 22:14:24,990 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:25,184 INFO root 		Data Loaded in file 129.txt
+2022-09-09 22:14:27,126 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:28,916 INFO root 		Data Loaded in file 130.txt
+2022-09-09 22:14:32,027 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:32,296 INFO root 		Data Loaded in file 131.txt
+2022-09-09 22:14:34,240 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:34,428 INFO root 		Data Loaded in file 132.txt
+2022-09-09 22:14:36,401 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:36,566 INFO root 		Data Loaded in file 133.txt
+2022-09-09 22:14:38,240 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:38,294 INFO root 		Data Loaded in file 134.txt
+2022-09-09 22:14:39,898 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:40,013 INFO root 		Data Loaded in file 135.txt
+2022-09-09 22:14:41,799 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:42,031 INFO root 		Data Loaded in file 136.txt
+2022-09-09 22:14:44,236 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:44,361 INFO root 		Data Loaded in file 137.txt
+2022-09-09 22:14:47,629 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:47,819 INFO root 		Data Loaded in file 138.txt
+2022-09-09 22:14:51,069 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:51,162 INFO root 		Data Loaded in file 139.txt
+2022-09-09 22:14:53,012 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:53,483 INFO root 		Data Loaded in file 140.txt
+2022-09-09 22:14:55,534 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:55,904 INFO root 		Data Loaded in file 141.txt
+2022-09-09 22:14:57,416 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:58,149 INFO root 		Data Loaded in file 142.txt
+2022-09-09 22:14:59,473 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:14:59,767 INFO root 		Data Loaded in file 143.txt
+2022-09-09 22:15:00,909 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:15:00,921 INFO root 		Data Loaded in file 144.txt
+2022-09-09 22:15:03,321 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:15:03,511 INFO root 		Data Loaded in file 145.txt
+2022-09-09 22:15:05,257 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:15:05,528 INFO root 		Data Loaded in file 146.txt
+2022-09-09 22:15:08,558 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:15:08,783 INFO root 		Data Loaded in file 147.txt
+2022-09-09 22:15:10,222 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:15:10,521 INFO root 		Data Loaded in file 148.txt
+2022-09-09 22:15:12,565 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:15:12,782 INFO root 		Data Loaded in file 149.txt
+2022-09-09 22:15:15,945 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:15:16,235 INFO root 		Data Loaded in file 150.txt
+2022-09-09 22:24:51,593 INFO root 		Inside the class data extraction
+2022-09-09 22:24:51,593 INFO root 		file path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\20211030 Test Assignment\Input.xlsx
+2022-09-09 22:24:51,593 INFO root 		target path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 22:24:51,593 INFO root 		Inside the data_load method
+2022-09-09 22:24:51,593 INFO root 		Path of web_driveris C:\Users\preet\Desktop\DS\Project\Youtube\chromedriver.exe
+2022-09-09 22:24:55,159 INFO root 		excel file loaded
+2022-09-09 22:24:55,692 INFO root 		Directory created C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 22:25:03,459 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:25:03,895 INFO root 		Data Loaded in file 37.txt
+2022-09-09 22:25:05,332 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:25:05,589 INFO root 		Data Loaded in file 38.txt
+2022-09-09 22:25:07,288 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:25:07,712 INFO root 		Data Loaded in file 39.txt
+2022-09-09 22:25:10,798 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:25:11,267 INFO root 		Data Loaded in file 40.txt
+2022-09-09 22:25:13,122 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:25:13,619 INFO root 		Data Loaded in file 41.txt
+2022-09-09 22:25:15,563 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:25:15,874 INFO root 		Data Loaded in file 42.txt
+2022-09-09 22:25:17,607 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:25:17,746 INFO root 		Data Loaded in file 43.txt
+2022-09-09 22:25:19,296 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:25:19,308 ERROR root 		Traceback (most recent call last):
+  File "C:\Users\preet\Desktop\DS\Project\Blackcoffer\DataExtraction.py", line 59, in data_load
+    f.write("{} \n".format(txt.text))
+AttributeError: 'str' object has no attribute 'text'
+
+2022-09-09 22:32:07,436 INFO root 		Inside the class data extraction
+2022-09-09 22:32:07,436 INFO root 		file path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\20211030 Test Assignment\Input.xlsx
+2022-09-09 22:32:07,436 INFO root 		target path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 22:32:07,436 INFO root 		Inside the data_load method
+2022-09-09 22:32:07,436 INFO root 		Path of web_driveris C:\Users\preet\Desktop\DS\Project\Youtube\chromedriver.exe
+2022-09-09 22:32:09,600 INFO root 		excel file loaded
+2022-09-09 22:32:09,632 INFO root 		Directory created C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 22:32:16,863 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:17,284 INFO root 		Data Loaded in file 37.txt
+2022-09-09 22:32:18,740 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:19,019 INFO root 		Data Loaded in file 38.txt
+2022-09-09 22:32:20,743 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:21,202 INFO root 		Data Loaded in file 39.txt
+2022-09-09 22:32:22,913 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:23,502 INFO root 		Data Loaded in file 40.txt
+2022-09-09 22:32:26,401 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:26,877 INFO root 		Data Loaded in file 41.txt
+2022-09-09 22:32:28,931 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:29,219 INFO root 		Data Loaded in file 42.txt
+2022-09-09 22:32:31,033 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:31,187 INFO root 		Data Loaded in file 43.txt
+2022-09-09 22:32:32,916 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:32,927 INFO root 		Data Loaded in file 44.txt
+2022-09-09 22:32:34,865 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:35,006 INFO root 		Data Loaded in file 45.txt
+2022-09-09 22:32:36,386 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:36,975 INFO root 		Data Loaded in file 46.txt
+2022-09-09 22:32:38,256 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:38,654 INFO root 		Data Loaded in file 47.txt
+2022-09-09 22:32:40,277 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:40,917 INFO root 		Data Loaded in file 48.txt
+2022-09-09 22:32:42,633 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:42,988 INFO root 		Data Loaded in file 49.txt
+2022-09-09 22:32:45,076 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:45,799 INFO root 		Data Loaded in file 50.txt
+2022-09-09 22:32:47,971 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:48,690 INFO root 		Data Loaded in file 51.txt
+2022-09-09 22:32:50,420 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:50,529 INFO root 		Data Loaded in file 52.txt
+2022-09-09 22:32:52,205 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:52,300 INFO root 		Data Loaded in file 53.txt
+2022-09-09 22:32:54,702 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:55,234 INFO root 		Data Loaded in file 54.txt
+2022-09-09 22:32:57,232 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:57,577 INFO root 		Data Loaded in file 55.txt
+2022-09-09 22:32:59,253 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:32:59,391 INFO root 		Data Loaded in file 56.txt
+2022-09-09 22:33:00,576 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:00,607 INFO root 		Data Loaded in file 57.txt
+2022-09-09 22:33:03,135 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:03,422 INFO root 		Data Loaded in file 58.txt
+2022-09-09 22:33:05,948 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:06,028 INFO root 		Data Loaded in file 59.txt
+2022-09-09 22:33:09,522 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:09,875 INFO root 		Data Loaded in file 60.txt
+2022-09-09 22:33:12,144 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:12,421 INFO root 		Data Loaded in file 61.txt
+2022-09-09 22:33:14,357 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:14,420 INFO root 		Data Loaded in file 62.txt
+2022-09-09 22:33:16,044 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:16,326 INFO root 		Data Loaded in file 63.txt
+2022-09-09 22:33:18,263 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:18,458 INFO root 		Data Loaded in file 64.txt
+2022-09-09 22:33:20,012 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:20,083 INFO root 		Data Loaded in file 65.txt
+2022-09-09 22:33:21,340 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:21,590 INFO root 		Data Loaded in file 66.txt
+2022-09-09 22:33:23,505 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:24,648 INFO root 		Data Loaded in file 67.txt
+2022-09-09 22:33:26,563 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:26,766 INFO root 		Data Loaded in file 68.txt
+2022-09-09 22:33:28,804 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:29,056 INFO root 		Data Loaded in file 69.txt
+2022-09-09 22:33:30,701 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:30,732 INFO root 		Data Loaded in file 70.txt
+2022-09-09 22:33:32,303 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:32,397 INFO root 		Data Loaded in file 71.txt
+2022-09-09 22:33:34,027 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:34,564 INFO root 		Data Loaded in file 72.txt
+2022-09-09 22:33:36,185 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:36,644 INFO root 		Data Loaded in file 73.txt
+2022-09-09 22:33:38,187 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:38,423 INFO root 		Data Loaded in file 74.txt
+2022-09-09 22:33:42,841 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:42,997 INFO root 		Data Loaded in file 75.txt
+2022-09-09 22:33:46,034 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:46,135 INFO root 		Data Loaded in file 76.txt
+2022-09-09 22:33:48,358 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:48,403 INFO root 		Data Loaded in file 77.txt
+2022-09-09 22:33:50,912 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:51,389 INFO root 		Data Loaded in file 78.txt
+2022-09-09 22:33:53,594 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:53,875 INFO root 		Data Loaded in file 79.txt
+2022-09-09 22:33:56,088 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:56,401 INFO root 		Data Loaded in file 80.txt
+2022-09-09 22:33:58,671 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:33:58,937 INFO root 		Data Loaded in file 81.txt
+2022-09-09 22:34:01,720 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:02,331 INFO root 		Data Loaded in file 82.txt
+2022-09-09 22:34:03,645 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:03,879 INFO root 		Data Loaded in file 83.txt
+2022-09-09 22:34:05,519 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:05,690 INFO root 		Data Loaded in file 84.txt
+2022-09-09 22:34:07,349 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:07,396 INFO root 		Data Loaded in file 85.txt
+2022-09-09 22:34:08,886 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:09,027 INFO root 		Data Loaded in file 86.txt
+2022-09-09 22:34:10,366 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:10,756 INFO root 		Data Loaded in file 87.txt
+2022-09-09 22:34:12,690 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:16,379 INFO root 		Data Loaded in file 88.txt
+2022-09-09 22:34:18,006 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:18,444 INFO root 		Data Loaded in file 89.txt
+2022-09-09 22:34:21,487 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:21,721 INFO root 		Data Loaded in file 90.txt
+2022-09-09 22:34:23,230 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:23,340 INFO root 		Data Loaded in file 91.txt
+2022-09-09 22:34:25,506 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:25,662 INFO root 		Data Loaded in file 92.txt
+2022-09-09 22:34:26,972 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:27,332 INFO root 		Data Loaded in file 93.txt
+2022-09-09 22:34:29,213 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:30,041 INFO root 		Data Loaded in file 94.txt
+2022-09-09 22:34:31,344 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:31,812 INFO root 		Data Loaded in file 95.txt
+2022-09-09 22:34:33,683 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:34,358 INFO root 		Data Loaded in file 96.txt
+2022-09-09 22:34:39,562 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:39,861 INFO root 		Data Loaded in file 97.txt
+2022-09-09 22:34:41,161 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:41,310 INFO root 		Data Loaded in file 98.txt
+2022-09-09 22:34:42,895 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:43,020 INFO root 		Data Loaded in file 99.txt
+2022-09-09 22:34:45,395 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:47,282 INFO root 		Data Loaded in file 100.txt
+2022-09-09 22:34:48,608 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:48,702 INFO root 		Data Loaded in file 101.txt
+2022-09-09 22:34:50,269 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:50,566 INFO root 		Data Loaded in file 102.txt
+2022-09-09 22:34:52,456 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:52,784 INFO root 		Data Loaded in file 103.txt
+2022-09-09 22:34:54,110 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:54,251 INFO root 		Data Loaded in file 104.txt
+2022-09-09 22:34:55,546 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:55,733 INFO root 		Data Loaded in file 105.txt
+2022-09-09 22:34:57,062 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:57,156 INFO root 		Data Loaded in file 106.txt
+2022-09-09 22:34:58,456 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:34:58,768 INFO root 		Data Loaded in file 107.txt
+2022-09-09 22:35:01,285 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:01,472 INFO root 		Data Loaded in file 108.txt
+2022-09-09 22:35:03,443 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:03,756 INFO root 		Data Loaded in file 109.txt
+2022-09-09 22:35:05,100 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:05,740 INFO root 		Data Loaded in file 110.txt
+2022-09-09 22:35:07,086 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:07,399 INFO root 		Data Loaded in file 111.txt
+2022-09-09 22:35:09,342 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:09,585 INFO root 		Data Loaded in file 112.txt
+2022-09-09 22:35:12,261 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:12,386 INFO root 		Data Loaded in file 113.txt
+2022-09-09 22:35:14,646 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:14,833 INFO root 		Data Loaded in file 114.txt
+2022-09-09 22:35:17,097 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:17,425 INFO root 		Data Loaded in file 115.txt
+2022-09-09 22:35:19,078 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:19,203 INFO root 		Data Loaded in file 116.txt
+2022-09-09 22:35:28,017 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:28,580 INFO root 		Data Loaded in file 117.txt
+2022-09-09 22:35:30,565 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:30,837 INFO root 		Data Loaded in file 118.txt
+2022-09-09 22:35:33,105 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:33,230 INFO root 		Data Loaded in file 119.txt
+2022-09-09 22:35:34,728 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:35,032 INFO root 		Data Loaded in file 120.txt
+2022-09-09 22:35:36,467 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:36,696 INFO root 		Data Loaded in file 121.txt
+2022-09-09 22:35:39,854 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:40,312 INFO root 		Data Loaded in file 122.txt
+2022-09-09 22:35:41,678 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:42,400 INFO root 		Data Loaded in file 123.txt
+2022-09-09 22:35:43,870 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:44,294 INFO root 		Data Loaded in file 124.txt
+2022-09-09 22:35:45,679 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:45,900 INFO root 		Data Loaded in file 125.txt
+2022-09-09 22:35:47,565 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:47,684 INFO root 		Data Loaded in file 126.txt
+2022-09-09 22:35:49,063 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:49,262 INFO root 		Data Loaded in file 127.txt
+2022-09-09 22:35:50,923 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:51,074 INFO root 		Data Loaded in file 128.txt
+2022-09-09 22:35:52,441 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:52,654 INFO root 		Data Loaded in file 129.txt
+2022-09-09 22:35:54,340 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:55,786 INFO root 		Data Loaded in file 130.txt
+2022-09-09 22:35:57,157 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:57,445 INFO root 		Data Loaded in file 131.txt
+2022-09-09 22:35:58,779 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:35:58,984 INFO root 		Data Loaded in file 132.txt
+2022-09-09 22:36:00,350 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:00,508 INFO root 		Data Loaded in file 133.txt
+2022-09-09 22:36:01,901 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:01,953 INFO root 		Data Loaded in file 134.txt
+2022-09-09 22:36:03,201 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:03,303 INFO root 		Data Loaded in file 135.txt
+2022-09-09 22:36:04,704 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:04,928 INFO root 		Data Loaded in file 136.txt
+2022-09-09 22:36:06,774 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:06,898 INFO root 		Data Loaded in file 137.txt
+2022-09-09 22:36:08,261 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:08,489 INFO root 		Data Loaded in file 138.txt
+2022-09-09 22:36:10,379 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:10,452 INFO root 		Data Loaded in file 139.txt
+2022-09-09 22:36:11,516 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:11,775 INFO root 		Data Loaded in file 140.txt
+2022-09-09 22:36:12,855 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:13,090 INFO root 		Data Loaded in file 141.txt
+2022-09-09 22:36:14,170 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:14,756 INFO root 		Data Loaded in file 142.txt
+2022-09-09 22:36:15,879 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:16,073 INFO root 		Data Loaded in file 143.txt
+2022-09-09 22:36:17,203 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:17,217 INFO root 		Data Loaded in file 144.txt
+2022-09-09 22:36:18,889 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:19,068 INFO root 		Data Loaded in file 145.txt
+2022-09-09 22:36:20,466 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:20,728 INFO root 		Data Loaded in file 146.txt
+2022-09-09 22:36:22,358 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:22,602 INFO root 		Data Loaded in file 147.txt
+2022-09-09 22:36:23,739 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:24,057 INFO root 		Data Loaded in file 148.txt
+2022-09-09 22:36:25,720 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:25,923 INFO root 		Data Loaded in file 149.txt
+2022-09-09 22:36:27,133 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:36:27,354 INFO root 		Data Loaded in file 150.txt
+2022-09-09 22:48:09,091 INFO root 		Inside the class data extraction
+2022-09-09 22:48:09,091 INFO root 		file path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\20211030 Test Assignment\Input.xlsx
+2022-09-09 22:48:09,091 INFO root 		target path is : C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 22:48:09,091 INFO root 		Inside the data_load method
+2022-09-09 22:48:09,091 INFO root 		Path of web_driveris C:\Users\preet\Desktop\DS\Project\Youtube\chromedriver.exe
+2022-09-09 22:48:12,061 INFO root 		excel file loaded
+2022-09-09 22:48:12,702 INFO root 		Directory created C:\Users\preet\Desktop\DS\Project\Blackcoffer\Files
+2022-09-09 22:48:22,953 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:48:23,516 INFO root 		Data Loaded in file 37.txt
+2022-09-09 22:48:35,155 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:48:35,498 INFO root 		Data Loaded in file 38.txt
+2022-09-09 22:48:38,466 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:48:38,951 INFO root 		Data Loaded in file 39.txt
+2022-09-09 22:48:41,202 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:48:41,780 INFO root 		Data Loaded in file 40.txt
+2022-09-09 22:48:44,404 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:48:44,951 INFO root 		Data Loaded in file 41.txt
+2022-09-09 22:48:54,061 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:48:54,326 INFO root 		Data Loaded in file 42.txt
+2022-09-09 22:48:56,920 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:48:57,092 INFO root 		Data Loaded in file 43.txt
+2022-09-09 22:48:58,920 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:48:58,951 INFO root 		Url does not exists
+2022-09-09 22:48:58,966 INFO root 		Data Loaded in file 44.txt
+2022-09-09 22:49:01,249 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:01,374 INFO root 		Data Loaded in file 45.txt
+2022-09-09 22:49:03,045 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:03,623 INFO root 		Data Loaded in file 46.txt
+2022-09-09 22:49:05,701 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:06,732 INFO root 		Data Loaded in file 47.txt
+2022-09-09 22:49:08,747 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:09,591 INFO root 		Data Loaded in file 48.txt
+2022-09-09 22:49:12,559 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:12,965 INFO root 		Data Loaded in file 49.txt
+2022-09-09 22:49:15,011 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:15,652 INFO root 		Data Loaded in file 50.txt
+2022-09-09 22:49:17,512 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:18,324 INFO root 		Data Loaded in file 51.txt
+2022-09-09 22:49:20,173 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:20,314 INFO root 		Data Loaded in file 52.txt
+2022-09-09 22:49:21,861 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:21,923 INFO root 		Data Loaded in file 53.txt
+2022-09-09 22:49:24,173 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:24,844 INFO root 		Data Loaded in file 54.txt
+2022-09-09 22:49:26,813 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:27,250 INFO root 		Data Loaded in file 55.txt
+2022-09-09 22:49:28,921 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:29,093 INFO root 		Data Loaded in file 56.txt
+2022-09-09 22:49:30,218 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:30,296 INFO root 		Url does not exists
+2022-09-09 22:49:30,312 INFO root 		Data Loaded in file 57.txt
+2022-09-09 22:49:33,217 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:33,577 INFO root 		Data Loaded in file 58.txt
+2022-09-09 22:49:34,951 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:35,061 INFO root 		Data Loaded in file 59.txt
+2022-09-09 22:49:37,358 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:37,842 INFO root 		Data Loaded in file 60.txt
+2022-09-09 22:49:39,857 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:40,217 INFO root 		Data Loaded in file 61.txt
+2022-09-09 22:49:43,872 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:43,966 INFO root 		Data Loaded in file 62.txt
+2022-09-09 22:49:46,138 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:46,512 INFO root 		Data Loaded in file 63.txt
+2022-09-09 22:49:48,981 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:49,262 INFO root 		Data Loaded in file 64.txt
+2022-09-09 22:49:50,840 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:50,933 INFO root 		Data Loaded in file 65.txt
+2022-09-09 22:49:52,839 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:52,902 INFO root 		Data Loaded in file 66.txt
+2022-09-09 22:49:55,059 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:55,091 INFO root 		Data Loaded in file 67.txt
+2022-09-09 22:49:56,996 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:57,074 INFO root 		Data Loaded in file 68.txt
+2022-09-09 22:49:58,684 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:49:58,950 INFO root 		Data Loaded in file 69.txt
+2022-09-09 22:50:00,856 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:00,903 INFO root 		Data Loaded in file 70.txt
+2022-09-09 22:50:02,809 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:02,950 INFO root 		Data Loaded in file 71.txt
+2022-09-09 22:50:04,559 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:05,262 INFO root 		Data Loaded in file 72.txt
+2022-09-09 22:50:06,871 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:07,355 INFO root 		Data Loaded in file 73.txt
+2022-09-09 22:50:08,668 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:08,965 INFO root 		Data Loaded in file 74.txt
+2022-09-09 22:50:10,902 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:11,121 INFO root 		Data Loaded in file 75.txt
+2022-09-09 22:50:12,917 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:13,058 INFO root 		Data Loaded in file 76.txt
+2022-09-09 22:50:14,668 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:14,730 INFO root 		Data Loaded in file 77.txt
+2022-09-09 22:50:16,027 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:16,636 INFO root 		Data Loaded in file 78.txt
+2022-09-09 22:50:17,870 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:18,230 INFO root 		Data Loaded in file 79.txt
+2022-09-09 22:50:19,870 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:20,292 INFO root 		Data Loaded in file 80.txt
+2022-09-09 22:50:25,306 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:25,712 INFO root 		Data Loaded in file 81.txt
+2022-09-09 22:50:29,539 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:30,196 INFO root 		Data Loaded in file 82.txt
+2022-09-09 22:50:33,195 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:33,570 INFO root 		Data Loaded in file 83.txt
+2022-09-09 22:50:36,054 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:36,382 INFO root 		Data Loaded in file 84.txt
+2022-09-09 22:50:38,459 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:38,553 INFO root 		Data Loaded in file 85.txt
+2022-09-09 22:50:40,444 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:40,662 INFO root 		Data Loaded in file 86.txt
+2022-09-09 22:50:42,834 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:43,505 INFO root 		Data Loaded in file 87.txt
+2022-09-09 22:50:45,397 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:50,568 INFO root 		Data Loaded in file 88.txt
+2022-09-09 22:50:55,504 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:55,989 INFO root 		Data Loaded in file 89.txt
+2022-09-09 22:50:58,551 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:50:58,816 INFO root 		Data Loaded in file 90.txt
+2022-09-09 22:51:00,441 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:00,597 INFO root 		Data Loaded in file 91.txt
+2022-09-09 22:51:02,831 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:03,034 INFO root 		Data Loaded in file 92.txt
+2022-09-09 22:51:04,393 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:04,737 INFO root 		Data Loaded in file 93.txt
+2022-09-09 22:51:06,691 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:07,550 INFO root 		Data Loaded in file 94.txt
+2022-09-09 22:51:08,911 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:09,285 INFO root 		Data Loaded in file 95.txt
+2022-09-09 22:51:10,973 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:11,661 INFO root 		Data Loaded in file 96.txt
+2022-09-09 22:51:13,614 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:14,033 INFO root 		Data Loaded in file 97.txt
+2022-09-09 22:51:15,411 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:15,629 INFO root 		Data Loaded in file 98.txt
+2022-09-09 22:51:17,036 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:17,270 INFO root 		Data Loaded in file 99.txt
+2022-09-09 22:51:19,285 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:21,379 INFO root 		Data Loaded in file 100.txt
+2022-09-09 22:51:25,085 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:25,226 INFO root 		Data Loaded in file 101.txt
+2022-09-09 22:51:30,679 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:31,132 INFO root 		Data Loaded in file 102.txt
+2022-09-09 22:51:34,881 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:35,444 INFO root 		Data Loaded in file 103.txt
+2022-09-09 22:51:39,708 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:39,911 INFO root 		Data Loaded in file 104.txt
+2022-09-09 22:51:43,161 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:43,551 INFO root 		Data Loaded in file 105.txt
+2022-09-09 22:51:46,942 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:47,052 INFO root 		Data Loaded in file 106.txt
+2022-09-09 22:51:48,942 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:49,474 INFO root 		Data Loaded in file 107.txt
+2022-09-09 22:51:50,942 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:51,661 INFO root 		Data Loaded in file 108.txt
+2022-09-09 22:51:53,348 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:53,847 INFO root 		Data Loaded in file 109.txt
+2022-09-09 22:51:55,253 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:56,253 INFO root 		Data Loaded in file 110.txt
+2022-09-09 22:51:59,127 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:51:59,534 INFO root 		Data Loaded in file 111.txt
+2022-09-09 22:52:02,611 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:02,955 INFO root 		Data Loaded in file 112.txt
+2022-09-09 22:52:06,222 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:06,425 INFO root 		Data Loaded in file 113.txt
+2022-09-09 22:52:08,503 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:09,050 INFO root 		Data Loaded in file 114.txt
+2022-09-09 22:52:11,221 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:12,767 INFO root 		Data Loaded in file 115.txt
+2022-09-09 22:52:14,658 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:14,986 INFO root 		Data Loaded in file 116.txt
+2022-09-09 22:52:16,923 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:18,204 INFO root 		Data Loaded in file 117.txt
+2022-09-09 22:52:19,382 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:19,663 INFO root 		Data Loaded in file 118.txt
+2022-09-09 22:52:21,444 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:21,725 INFO root 		Data Loaded in file 119.txt
+2022-09-09 22:52:23,287 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:23,772 INFO root 		Data Loaded in file 120.txt
+2022-09-09 22:52:25,896 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:26,287 INFO root 		Data Loaded in file 121.txt
+2022-09-09 22:52:28,099 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:28,895 INFO root 		Data Loaded in file 122.txt
+2022-09-09 22:52:30,567 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:32,035 INFO root 		Data Loaded in file 123.txt
+2022-09-09 22:52:33,441 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:34,066 INFO root 		Data Loaded in file 124.txt
+2022-09-09 22:52:35,550 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:35,800 INFO root 		Data Loaded in file 125.txt
+2022-09-09 22:52:37,034 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:37,175 INFO root 		Data Loaded in file 126.txt
+2022-09-09 22:52:38,362 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:38,628 INFO root 		Data Loaded in file 127.txt
+2022-09-09 22:52:39,737 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:39,924 INFO root 		Data Loaded in file 128.txt
+2022-09-09 22:52:41,096 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:41,377 INFO root 		Data Loaded in file 129.txt
+2022-09-09 22:52:42,595 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:44,876 INFO root 		Data Loaded in file 130.txt
+2022-09-09 22:52:45,954 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:46,345 INFO root 		Data Loaded in file 131.txt
+2022-09-09 22:52:47,751 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:48,048 INFO root 		Data Loaded in file 132.txt
+2022-09-09 22:52:49,172 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:49,422 INFO root 		Data Loaded in file 133.txt
+2022-09-09 22:52:50,828 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:50,891 INFO root 		Data Loaded in file 134.txt
+2022-09-09 22:52:52,359 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:52,484 INFO root 		Data Loaded in file 135.txt
+2022-09-09 22:52:53,984 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:54,281 INFO root 		Data Loaded in file 136.txt
+2022-09-09 22:52:55,811 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:55,968 INFO root 		Data Loaded in file 137.txt
+2022-09-09 22:52:57,311 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:57,608 INFO root 		Data Loaded in file 138.txt
+2022-09-09 22:52:59,311 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:52:59,404 INFO root 		Data Loaded in file 139.txt
+2022-09-09 22:53:00,763 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:53:01,060 INFO root 		Data Loaded in file 140.txt
+2022-09-09 22:53:03,123 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:53:03,435 INFO root 		Data Loaded in file 141.txt
+2022-09-09 22:53:04,669 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:53:05,560 INFO root 		Data Loaded in file 142.txt
+2022-09-09 22:53:07,028 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:53:07,309 INFO root 		Data Loaded in file 143.txt
+2022-09-09 22:53:08,622 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:53:08,716 INFO root 		Url does not exists
+2022-09-09 22:53:08,757 INFO root 		Data Loaded in file 144.txt
+2022-09-09 22:53:10,186 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:53:10,467 INFO root 		Data Loaded in file 145.txt
+2022-09-09 22:53:15,169 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:53:15,606 INFO root 		Data Loaded in file 146.txt
+2022-09-09 22:53:21,980 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:53:22,214 INFO root 		Data Loaded in file 147.txt
+2022-09-09 22:53:23,604 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:53:23,870 INFO root 		Data Loaded in file 148.txt
+2022-09-09 22:53:26,041 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:53:26,244 INFO root 		Data Loaded in file 149.txt
+2022-09-09 22:53:27,510 INFO root 		Url fetched and loaded in driver
+2022-09-09 22:53:27,681 INFO root 		Data Loaded in file 150.txt
